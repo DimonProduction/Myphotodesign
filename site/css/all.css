@@ -111,11 +111,12 @@ table {
  */
 #left{
 	float:left;
-	/* font:bold 20px Arial, sans-serif; */
+	font:bold 20px Arial, sans-serif;
 }
 #right{
 	float:right;
-	/* font:bold 20px Arial, sans-serif; */
+	font:bold 20px Arial, sans-serif;
+	margin-right:45px;
 	
 }
 
